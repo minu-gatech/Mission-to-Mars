@@ -2,7 +2,7 @@
 
 ![Mars_Image](Images/mission_to_mars.png)
 
-## Objective: To scrape the following Mars information from NASA website and render that scraped information to an HTML Page
+## Objective: To scrape the following latest Mars information from NASA website and render that scraped information to an HTML Page
 
   - NASA Mars News
   - JPL Mars Space Images - Featured Image
@@ -23,6 +23,7 @@
    - Created a route called /scrape that imports scrape_mars.py script and call the scrape function.
    - Created a root route / that will query the Mongo database and pass the mars data into an HTML template to display the data.
 - Created a template HTML file called index.html that will take the mars data dictionary and display all of the data in the appropriate HTML elements. 
+- Clicking on "Scrape New Data" button on main page...scrapes all data and renders information within few minutes.
 
 ## HTML Page with scraped information and images
 
