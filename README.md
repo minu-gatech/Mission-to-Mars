@@ -24,9 +24,14 @@
    - Created a root route / that will query the Mongo database and pass the mars data into an HTML template to display the data.
 - Created a template HTML file called index.html that will take the mars data dictionary and display all of the data in the appropriate HTML elements. 
 
+## HTML Page with scraped information and images
 
-![html1](Mission_to_Mars/Screenshots/MainPage.PNG)
-![scraped1](Mission_to_Mars/Screenshots/ScrapedPage1.PNG)
-![scraped2](Mission_to_Mars/Screenshots/ScrapedPage2.PNG)
-![scraped3](Mission_to_Mars/Screenshots/ScrapedPage3.PNG)
-![scraped4](Mission_to_Mars/Screenshots/ScrapedPage4.PNG)
+- ![html1](Mission_to_Mars/Screenshots/MainPage.PNG)
+
+- ![scraped1](Mission_to_Mars/Screenshots/ScrapedPage1.PNG)
+
+- ![scraped2](Mission_to_Mars/Screenshots/ScrapedPage2.PNG)
+
+- ![scraped3](Mission_to_Mars/Screenshots/ScrapedPage3.PNG)
+
+- ![scraped4](Mission_to_Mars/Screenshots/ScrapedPage4.PNG)
