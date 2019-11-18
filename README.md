@@ -26,3 +26,7 @@
 
 
 ![html1](Mission_to_Mars/Screenshots/MainPage.PNG)
+![scraped1](Mission_to_Mars/Screenshots/ScrapedPage1.PNG)
+![scraped2](Mission_to_Mars/Screenshots/ScrapedPage2.PNG)
+![scraped3](Mission_to_Mars/Screenshots/ScrapedPage3.PNG)
+![scraped4](Mission_to_Mars/Screenshots/ScrapedPage4.PNG)
