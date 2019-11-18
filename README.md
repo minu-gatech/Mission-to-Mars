@@ -10,7 +10,7 @@
   - Mars Facts
   - Mars Hemispheres
 
-## Tools Used: Jupyter Notebook, Python, Pandas, Flask, Splinter, MongoDB, PyMongo, HTML, Bootstrap
+### Tools Used: Jupyter Notebook, Python, Pandas, Flask, Splinter, MongoDB, PyMongo, HTML, Bootstrap
 
 ### Tasks done to do scraping and rendering :
 - Scraped the NASA Mars News Site and collect the latest News Title and Paragraph Text. ( https://mars.nasa.gov/news/) 
