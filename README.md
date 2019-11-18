@@ -25,4 +25,4 @@
 - Created a template HTML file called index.html that will take the mars data dictionary and display all of the data in the appropriate HTML elements. 
 
 
-![html1](Mission_to_Mars/Screenshots/'main page.png')
+![html1](Mission_to_Mars/Screenshots/MainPage.png)
