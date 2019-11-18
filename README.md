@@ -12,7 +12,7 @@
 
 ## Tools Used: Jupyter Notebook, Python, Pandas, Flask, Splinter, MongoDB, HTML, Bootstrap
 
-### Tasks done to do scraping:
+### Tasks done to do scraping and rendering :
 - Scraped the NASA Mars News Site and collect the latest News Title and Paragraph Text. ( https://mars.nasa.gov/news/) 
 - Visited the url for JPL Featured Space Image and used splinter to navigate the site and find the full image url for the current Featured Mars Image ( https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)
 - Visited the Mars Weather twitter account and scrape the latest Mars weather tweet from the page. (https://twitter.com/marswxreport?lang=en)
@@ -26,12 +26,13 @@
 
 ## HTML Page with scraped information and images
 
-- ![html1](Mission_to_Mars/Screenshots/MainPage.PNG)
-
-- ![scraped1](Mission_to_Mars/Screenshots/ScrapedPage1.PNG)
-
-- ![scraped2](Mission_to_Mars/Screenshots/ScrapedPage2.PNG)
-
-- ![scraped3](Mission_to_Mars/Screenshots/ScrapedPage3.PNG)
-
-- ![scraped4](Mission_to_Mars/Screenshots/ScrapedPage4.PNG)
+### 1 
+![html1](Mission_to_Mars/Screenshots/MainPage.PNG)
+### 2
+![scraped1](Mission_to_Mars/Screenshots/ScrapedPage1.PNG)
+### 3
+![scraped2](Mission_to_Mars/Screenshots/ScrapedPage2.PNG)
+### 4
+![scraped3](Mission_to_Mars/Screenshots/ScrapedPage3.PNG)
+### 5
+![scraped4](Mission_to_Mars/Screenshots/ScrapedPage4.PNG)
