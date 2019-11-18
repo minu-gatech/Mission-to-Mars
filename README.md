@@ -1,8 +1,8 @@
 # Mission to Mars
 
-[Mars_Image](!Images/mission_to_mars.png)
+![Mars_Image](Images/mission_to_mars.png)
 
-## Objective: To scrape the following Mars information from NASA website and render that scarped information into an HTML Page
+## Objective: To scrape the following Mars information from NASA website and render that scraped information to an HTML Page
 
   - NASA Mars News
   - JPL Mars Space Images - Featured Image
