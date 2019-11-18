@@ -1,6 +1,6 @@
 # Mission to Mars
 
-![Mars_Image](Images/mission_to_mars.png)
+![Mars_Image](Mission_to_Mars/Images/mission_to_mars.png)
 
 ## Objective: To scrape the following Mars information from NASA website and render that scraped information to an HTML Page
 
